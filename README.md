@@ -288,5 +288,5 @@ CUDA_VISIBLE_DEVICES=$DEVICE python main.py -O \
               --sd_version custom:../Dreambooth-Stable-Diffusion/sd2diffusers/<subject>_2_zero
 ```
 
-The reults of Dreambooth3D will be saved in ```./stable-dreamfusion/<subject>_2_zero_dmtet/results```.
+The reults of CT3D will be saved in ```./stable-dreamfusion/<subject>_2_zero_dmtet/results```.
 
