@@ -1,5 +1,7 @@
 # CT3D: Consistent Text-to-3D Generations For Custom Subjects
 
+## [Website](https://fishbotwilleatyou.com/ct3d/)
+
 This is an implementtaion of **CT3D: Consistent Text-to-3D Generations For Custom Subjects**  with [Stable Diffusion](https://github.com/CompVis/stable-diffusion). This method can generate 3D model of custom subjects according to a given text prompt with just 3-5 input image of the custom subject. This implementation is based on [Dreambooth](https://arxiv.org/abs/2208.12242), [Dreamfusion](https://dreamfusion3d.github.io/) and [Dreambooth3D](https://dreambooth3d.github.io/). This method can generate more 3D consistent custom subject 3D models compared to **Dreambooth3D** with Stable Diffusion backbone.
 
 
